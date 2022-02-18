@@ -6,5 +6,4 @@
         </samp><br>
     </p>
 <p align="right"><strong><samp>」</samp></strong></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
