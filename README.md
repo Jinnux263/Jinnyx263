@@ -1,12 +1,3 @@
-<p align="left"><strong><samp>「</samp></strong></p>
-    <p align="center">
-        <samp><br>
-        It's right for me, but not for you. Either way,<br>
-        the concept of "right" means no more than that.<br>
-        </samp><br>
-    </p>
-<p align="right"><strong><samp>」</samp></strong></p>
-
 # Hi, I’m Tan Dat!   <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
 <a href=https://www.linkedin.com/in/truong-duy-12a4b5188/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=anhduy1202&color=blue">
 
@@ -25,3 +16,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jinnux263&theme=tokyonight&show_icons=true&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinnux263&theme=tokyonight&layout=compact&langs_count=6">
+
+<p align="left"><strong><samp>「</samp></strong></p>
+    <p align="center">
+        <samp><br>
+        It's right for me, but not for you. Either way,<br>
+        the concept of "right" means no more than that.<br>
+        </samp><br>
+    </p>
+<p align="right"><strong><samp>」</samp></strong></p>
