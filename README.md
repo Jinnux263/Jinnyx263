@@ -1,7 +1,7 @@
 # Hi, I’m Tan Dat!   <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
 <a href=https://www.linkedin.com/in/tandat201///> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=nguyentandat201&color=blue">
 
-👨 My name is Nguyen Tan Dat and I'm studying Computer Science at HCMUT. I'm from Vietnam and my goal is to become a software engineer.
+👨 My name is Nguyen Tan Dat and I'm studying Computer Science at HCMUT. I'm from Vietnam and my goal is to become a Full Stack software engineer.
 
 <p align="left"><strong><samp>「</samp></strong></p>
     <p align="center">
