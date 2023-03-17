@@ -1,5 +1,5 @@
 # Hi, I’m Tan Dat!   <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
-<a href=https://www.linkedin.com/in/tandat201///> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=nguyentandat201&color=blue">
+<a href=https://www.linkedin.com/in/tandat201/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=nguyentandat201&color=blue">
 
 👨 My name is Nguyen Tan Dat and I'm studying Computer Science at HCMUT. 
 
